@@ -6,7 +6,7 @@
 
 ## Installation
 
-OOP-Assignment5 has been tested on CentOS v6.10 with gcc v6.1.0.
+OOP-Assignment5 has been tested on Ubuntu v20.04.2 with javac v11.0.10 and java openjdk 11.0.10.
 
 ```
 make
